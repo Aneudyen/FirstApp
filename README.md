@@ -2,9 +2,9 @@
 
 Submitted by: **Jose Eustate Nunez**
 
-**First App** is an app that... [TODO] 
+**First App** is an app that change the color of the background.
 
-Time spent: **X** hours spent in total
+Time spent: * 3 * hours spent in total
 
 ## Required Features
 
@@ -15,11 +15,22 @@ The following **required** functionality is completed:
  
 
 ## App Brainstorming (Step 4)
+Tiktok - I like how it divide in the different tabs, like store, following, discover.
+Instagram - the UI is really nice and user friendly.
+Youtube - the description part of the video.
+
+App Idea: "BodegaGo"
+Description: BodegaGo is an intuitive mobile app designed specifically for local bodegas and neighborhood customers. 
+The app enables bodegas to digitally list their products, manage real-time inventory, and accept seamless in-app payments. 
+Customers can conveniently browse available items, add them to a cart, and choose either local pickup or delivery. 
+Features include automatic inventory tracking, geolocation-based delivery zones, secure payment processing, and order status notifications. 
+This modernizes bodegas by expanding their reach, improving customer convenience, and enhancing operational efficiency through streamlined inventory management.
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-try to connect the button so i can change the background color.
+Try to connect the button to the view controller, so I can change the background color.
 
 ## License
 
