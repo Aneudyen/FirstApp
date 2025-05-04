@@ -32,6 +32,9 @@ This modernizes bodegas by expanding their reach, improving customer convenience
 Describe any challenges encountered while building the app.
 Try to connect the button to the view controller, so I can change the background color.
 
+https://imgur.com/gallery/when-im-roped-into-another-imgur-event-just-by-showing-up-BLpb7JV.gif
+
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
